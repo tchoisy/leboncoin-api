@@ -1,5 +1,5 @@
 {
-  "name": "leboncoin-api",
+  "name": "leboncoin-api-tc",
   "version": "0.0.37",
   "description": "leboncoin.fr API",
   "main": "./main.js",
